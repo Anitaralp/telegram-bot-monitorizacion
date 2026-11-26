@@ -1,0 +1,12 @@
+# Secretos y entorno
+.env
+*.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Documentos procesados por el bot
+documentos/
